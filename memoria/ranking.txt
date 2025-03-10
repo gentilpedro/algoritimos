@@ -1,0 +1,5 @@
+Ana Maria Santos;65;125.985
+Pedro da Costa;65;118.936
+Bianca de Andrade;45;65.499
+Carlos Fernandes;75;95.385
+Luciana de Motta;80;67.322
