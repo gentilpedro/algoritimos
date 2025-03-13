@@ -28,7 +28,7 @@ def preenche_matriz():
       figuras.pop(num)
 
 def mostra_tabuleiro():
-  os.system("cls")
+  os.system("clear")
   print("   1   2   3   4")
   for i in range(4):
     print(f"{i+1}", end="")
@@ -45,7 +45,7 @@ def mostra_tabuleiro():
     time.sleep(1)
 
 def mostra_memoria():
-  os.system("cls")
+  os.system("clear")
   print("   1   2   3   4")
   for i in range(4):
     print(f"{i+1}", end="")
