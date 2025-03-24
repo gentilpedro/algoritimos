@@ -5,3 +5,4 @@ Carlos Fernandes;75;95.385
 Luciana de Motta;80;67.322
 luis;-5;51.126
 pedro;45;116.534
+Pedro;50;110.026
