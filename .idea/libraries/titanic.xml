@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="titanic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Leituras_de_CSV/dicionarios/titanic.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
